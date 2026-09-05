@@ -184,8 +184,8 @@ for epoch in range(num_epochs):
         f"Epoch [{epoch+1}/{num_epochs}], "
         f"Training Loss: {epoch_loss:.6f}"
     )
-print('Name:       Vignesh M          ')
-print('Register Number:   212223240176   ')
+print('Name: DILIP M P')
+print('Register Number: 212223230048')
 
 plt.plot(
     train_losses,
@@ -225,8 +225,8 @@ print(predicted_prices[:5])
 
 print("\nActual Prices:")
 print(actual_prices[:5])
-print('Name:   Vignesh M         ')
-print('Register Number:   212223240176   ')
+print('Name: DILIP M P')
+print('Register Number: 212223230048')
 
 plt.figure(figsize=(10, 6))
 
@@ -264,15 +264,17 @@ print(
 
 ## Training Loss Over Epochs Plot
 
-<img width="1060" height="657" alt="image" src="https://github.com/user-attachments/assets/dc7a5b61-6838-47d7-b5fa-eaebcd036a48" />
+<img width="752" height="652" alt="image" src="https://github.com/user-attachments/assets/e51035c1-1542-438e-a775-eb5d0c7f0e4c" />
+
 
 
 ## True Stock Price, Predicted Stock Price vs time
 
-<img width="1470" height="772" alt="image" src="https://github.com/user-attachments/assets/0418cd15-81ee-4a82-ac1b-d4120337105d" />
+<img width="1120" height="783" alt="image" src="https://github.com/user-attachments/assets/3bfd1f5e-b0b2-4e68-b72c-007188ef05ea" />
 
 ### Predictions
-<img width="1547" height="115" alt="image" src="https://github.com/user-attachments/assets/43417a79-367f-4d78-87e3-cf622c5d2ed0" />
+<img width="287" height="73" alt="image" src="https://github.com/user-attachments/assets/4290bf86-0cf2-46e2-8895-fd0f027edf6e" />
+
 
 
 ## RESULT
